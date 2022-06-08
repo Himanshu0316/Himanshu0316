@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A full Stack Web developer</h3>
+<h3 align="center">I have always been passionate about coding and problem-solving. I like to implement my learning into developing user-friendly and customer-centric web applications and I also enjoy writing clean, reusable, scalable and optimized code. I have been inclined to work in a collaborative and creative environment which will help me to grow as a person.
+I have completed my B.Tech with specialization in Mech(Automobile). Currently, I'm learning the MERN stack at Masai School. I'm enthusiastically looking forward to working in Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0316&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0316" /> </p>
 
